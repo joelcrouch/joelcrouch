@@ -10,9 +10,9 @@ Today, I’m a Software Engineer (M.S. CS) building the systems that power the f
 
 I don’t just write code; I am building tools that turn gigabytes of raw genomic and enterprise data into information that actually matters. I thrive in "ship-first" environments where data integrity is mission-critical and curiosity is a prerequisite.
 
-    Currently Obsessed With: Go (Golang), Distributed Systems (Raft), and LLM Orchestration.
+Currently Obsessed With: Go (Golang), Distributed Systems (Raft), and LLM Orchestration.
 
-    The Philosophy: If it's broken, I can fix it. If it doesn't exist, I can architect it.
+The Philosophy: If it's broken, I can fix it. If it doesn't exist, I can architect it.
 - 📫 How to reach me:  please email me at joelcrouch@gmail.com.
 
 <!---
