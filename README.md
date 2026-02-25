@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @joelcrouch
-From Diesel & DNA to Distributed Systems
+
+# From Diesel & DNA to Distributed Systems
 
 I told myself I’d learn to fix three things: cars, people, and computers.
 
