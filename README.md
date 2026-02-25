@@ -1,8 +1,17 @@
 - 👋 Hi, I’m @joelcrouch
-- 👀 I’m interested in computer science.  I am switching from a wet lab-DNA anaylysis and organ transplantation lab to working with data.
-Ideally I will be able to use my lab knowledge and growing software development knowledge to get a great job writing some cool code and systems to help 
-doctors use all the reams of data that is being made by new genomic sequencers to construct better medicine for people.
-I told myself I would learn how to fix cars, people, and computers when i was in my teens. I have been a heavy wheel diesel mechanic, dropped and replaced smaller transmissions, worked as a paramedic/CNA, and in a organ transplant lab.  So here I am, fixing computers.  Or in this case-programming computers.
+From Diesel & DNA to Distributed Systems
+
+I told myself I’d learn to fix three things: cars, people, and computers.
+
+My path has been anything but linear. I’ve been a heavy-wheel diesel mechanic, an EMT, a bike messenger, and I've worked every position in a restaurant. I’ve performed mouse-brain surgery for electrophysiology research and spent over a decade in an organ transplant lab.
+
+Today, I’m a Software Engineer (M.S. CS) building the systems that power the future of data and AI.
+
+I don’t just write code; I am building tools that turn gigabytes of raw genomic and enterprise data into information that actually matters. I thrive in "ship-first" environments where data integrity is mission-critical and curiosity is a prerequisite.
+
+    Currently Obsessed With: Go (Golang), Distributed Systems (Raft), and LLM Orchestration.
+
+    The Philosophy: If it's broken, I can fix it. If it doesn't exist, I can architect it.
 - 📫 How to reach me:  please email me at joelcrouch@gmail.com.
 
 <!---
